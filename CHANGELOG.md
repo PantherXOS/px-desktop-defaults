@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 ### Changed
 
 - Default settings for screengrab.
-
+- Default settings for Albert .
 
 ## [0.0.20]
 ### Changed
