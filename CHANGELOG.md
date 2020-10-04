@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.24]
+### Changed
+
+- Default settings for screengrab.
+
+
 ## [0.0.20]
 ### Changed
 
