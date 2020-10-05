@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.25]
+### Changed
+
+- Disable `icon_follow_color_scheme` flag in `lxqt.conf` for fixing icon them in pantherx-panel.
+
+
 ## [0.0.24]
 ### Changed
 
