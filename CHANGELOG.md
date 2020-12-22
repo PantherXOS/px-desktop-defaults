@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.26]
+### Changed
+
+- Update default color scheme in `lxqt.conf`.
+
+
+## [0.0.25]
+### Changed
+
+- Disable `icon_follow_color_scheme` flag in `lxqt.conf` for fixing icon them in pantherx-panel.
+
+
+## [0.0.24]
+### Changed
+
+- Default settings for screengrab.
+- Default settings for Albert .
+
 ## [0.0.20]
 ### Changed
 
