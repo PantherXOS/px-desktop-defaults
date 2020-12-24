@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.27]
+### Changed
+
+- Added autostart file for gnome-keyring ssh-agent (gnome-keyring-ssh-lxqt.desktop)
+
+
 ## [0.0.26]
 ### Changed
 
