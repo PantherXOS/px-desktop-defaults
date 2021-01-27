@@ -2,7 +2,7 @@
 [Desktop Entry]
 Categories=Utility;
 Comment=A desktop agnostic launcher
-Exec=/gnu/store/l1ns19hzpr93s4zsh8989ic2myin2ynv-albert-launcher-v0.16.1/bin/albert
+Exec=albert
 GenericName=Launcher
 Icon=albert
 Name=Albert
