@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+
+## [0.0.29]
+### Changed and Fixed
+
+- Update `albert` autostart file to fixing issue for running at startup.
+- Add `qlipper` to autostart.
+
+
 ## [0.0.26]
 ### Changed
 
