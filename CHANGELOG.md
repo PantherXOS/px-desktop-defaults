@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.30]
+### Changed and Fixed
+
+- Update icon theme name based on new version of px-icons name.
+
 
 ## [0.0.29]
 ### Changed and Fixed
