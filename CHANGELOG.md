@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.31]
+### Changed and Fixed
+
+- Renamed the openbox settings file name to `rc.xml`.
+
+
 ## [0.0.30]
 ### Changed and Fixed
 
