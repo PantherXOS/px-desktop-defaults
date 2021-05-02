@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.32]
+### Fixed
+
+- Updating the pcmanfm-qt settings file to `settings.conf`.
+
+
 ## [0.0.31]
 ### Changed and Fixed
 
