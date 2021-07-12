@@ -2,13 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.0.33]
+## [0.0.34]
 ### Changed
 
 - Updating the thumbnail size to 30MB in pcmanfm-qt config.
 
 
-## [0.0.32]
+## [0.0.33]
 ### Fixed
 
 - Updating the pcmanfm-qt settings file to `settings.conf`.
