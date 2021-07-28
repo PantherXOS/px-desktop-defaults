@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.36]
+### Changed
+- remove pcmanfm-qt settings, and apply required changes in package definition
+
+## [0.0.35]
+### Changed
+- Update Wallpaper settings in pcmanfm-qt config
+
 ## [0.0.34]
 ### Changed
 
