@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.0.37]
+## [0.0.38]
 ### Changed
 - Updated XDG config files for setting `DARK` theme as default.
 
