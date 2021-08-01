@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.37]
+### Changed
+- Updated XDG config files for setting `DARK` theme as default.
+
+
 ## [0.0.36]
 ### Changed
 - remove pcmanfm-qt settings, and apply required changes in package definition
