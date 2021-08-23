@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.39]
+### Changed
+- Added copyq to running at startup instead of qlipper.
+
+
 ## [0.0.38]
 ### Changed
 - Updated XDG config files for setting `DARK` theme as default.

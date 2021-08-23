@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
-Name=Qlipper
-TryExec=qlipper
-Exec=qlipper
+Name=CopyQ
+TryExec=copyq
+Exec=copyq
 OnlyShowIn=LXQt;
 X-LXQt-Need-Tray=true
 
