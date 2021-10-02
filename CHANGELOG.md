@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.40]
+### Changed
+
+- Update lxqt.conf (color palette).
+
+
 ## [0.0.39]
 ### Changed
 - Added copyq to running at startup instead of qlipper.
