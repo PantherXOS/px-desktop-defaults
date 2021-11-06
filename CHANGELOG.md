@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.41]
+### Changed
+
+- Adding px-first-login-welcome-screen to run as autostart application.
+
+
 ## [0.0.40]
 ### Changed
 

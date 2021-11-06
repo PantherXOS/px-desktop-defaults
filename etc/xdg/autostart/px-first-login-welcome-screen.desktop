@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Categories=Utility;
+Comment=A desktop agnostic launcher
+Exec=px-first-login-welcome-screen
+GenericName=Launcher
+Name=PantherX Welcome Screen
+StartupNotify=false
+Type=Application
+Version=1.0
