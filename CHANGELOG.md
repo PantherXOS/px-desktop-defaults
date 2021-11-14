@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.42]
+### Changed
+
+- Updating the wallpaper.
+
+
 ## [0.0.41]
 ### Changed
 
