@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.43]
+### Changed
+
+- Update panel.conf for new LXQt tray plugin.
+
+
 ## [0.0.42]
 ### Changed
 
