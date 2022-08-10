@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.44]
+### Added
+- add default configuration for `flameshot`
+
+### Changes
+- update `Print Screen` key binding to open `flameshot`
+
 ## [0.0.43]
 ### Changed
 
