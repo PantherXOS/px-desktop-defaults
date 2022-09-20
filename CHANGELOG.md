@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.45]
+### Added
+- removed the `wallpaper.jpg` to `px-lxqt-themes`.
+
+
 ## [0.0.44]
 ### Added
 - add default configuration for `flameshot`
