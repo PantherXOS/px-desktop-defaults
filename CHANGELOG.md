@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.47]
+### Changes:
+- rename LXQt desktop entry from `i3wm` to `i3`
+
+
 ## [0.0.46]
 ### Changes:
 - lxqt.conf: set screen locker command to `xlock`
