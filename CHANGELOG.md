@@ -2,9 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+## [0.0.46]
 ### Changes:
 - lxqt.conf: set screen locker command to `xlock`
+- add LXQt window manager switch configurations
 
 
 ## [0.0.45]

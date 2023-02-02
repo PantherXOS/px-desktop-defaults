@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=LXQt switch to Openbox
+Comment=Lightweight Qt Desktop
+Type=Application
+Exec=/run/current-system/profile/etc/px-desktop/scripts/lxqt-switch-desktop.sh openbox
+TryExec=/run/current-system/profile/etc/px-desktop/scripts/lxqt-switch-desktop.sh
+DesktopNames=LXQt
