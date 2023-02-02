@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+### Changes:
+- lxqt.conf: set screen locker command to `xlock`
+
+
 ## [0.0.45]
 ### Added
 - removed the `wallpaper.jpg` to `px-lxqt-themes`.
